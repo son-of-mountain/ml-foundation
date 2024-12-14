@@ -9,4 +9,7 @@ you can check more of this course at codedex.com
 - **Chain of Thoughts**: Guide the AI step-by-step by breaking down complex problems into smaller pieces. 
 - **Graph of Thoughts**: Use structured or visualized reasoning to explore multiple solution paths.
 
-
+## PROMPT ENGINEERING
+- LLM is basically words generation, and it’s **BASICALLY MATH + CALCULATIONS**.
+- **Settings of LLM:** Temperature
+- **Playground:** Platform, Claude
