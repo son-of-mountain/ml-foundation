@@ -13,3 +13,9 @@ you can check more of this course at codedex.com
 - LLM is basically words generation, and it’s **BASICALLY MATH + CALCULATIONS**.
 - **Settings of LLM:** Temperature
 - **Playground:** Platform, Claude
+
+
+# COPILOTS
+- JetBrains AI
+- AWS CodeWhisperer
+- Codeium
