@@ -19,3 +19,9 @@ you can check more of this course at codedex.com
 - JetBrains AI
 - AWS CodeWhisperer
 - Codeium
+
+#### HR service as a  chatbot 
+		you give 1k documents, how can we make it as a service ???
+		=> rag is the solution
+		but you should give precise **infomations** you should **fine tune**
+
