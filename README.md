@@ -2,6 +2,8 @@
 
 you can check more of this course at codedex.com
 
+## Course
+<a href="https://www.codedex.io/github-students">click here</a>
 
 ## PROMPT ENGINEERING TECHNIQUES
 - **Persona Technique:** You tell it the personality it should act like.
