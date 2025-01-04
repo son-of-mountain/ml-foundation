@@ -1,6 +1,5 @@
 # Foundation for Machine Learning
-
-you can check more of this course at codedex.com
+you can check more of this course at codedex.com, a gamified platform for learning.
 
 ## Course
 <a href="https://www.codedex.io/github-students">click here</a>
